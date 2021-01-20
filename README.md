@@ -1,4 +1,5 @@
 # facialemotionrecognition
+## A.I Course Project
 Detecting face emotion from images
 
 
